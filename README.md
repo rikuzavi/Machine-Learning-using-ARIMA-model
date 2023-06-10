@@ -1,5 +1,8 @@
 # Machine-Learning-using-ARIMA-model
 
+![Howrah_bridge](https://github.com/rikuzavi/Machine-Learning-using-ARIMA-model/assets/96969805/2d680fa0-7118-44e8-9231-8d613c9fef15)
+
+
 This project is based on forecasting Temperature using past 7 days hourly temperature data set.
 Data set is on real time data a person have to take data for past 7 days then apply this algorithm.
 website for dataset :-https://www.timeanddate.com/weather/india/kolkata/historic
