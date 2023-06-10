@@ -10,16 +10,20 @@ Code editor used :- PYCHARM Ide.
 DESCRIPTION :-
 
 1)Data files used :-
+
   weather_data.csv -> used for storing past 7days data 
   predicted.csv -> used for storing the predicted data used for finding RMSE(Root mean square error)
   forecasted.csv -> used for storing the forecasted data
 
 2)Exploring dataset :-
   first 5 data in the data set ->
+  
   ![image](https://github.com/rikuzavi/Machine-Learning-using-ARIMA-model/assets/96969805/f7d2f2ab-43ce-4ef3-94c9-cbdba968d4b1)
   
   last 5 data in the data set ->
+  
   ![image](https://github.com/rikuzavi/Machine-Learning-using-ARIMA-model/assets/96969805/edb21847-6848-4257-9c9b-ae0f95d1a2f9)
+  
   update temperature while using this.
 
 3)Code Explaination :-
